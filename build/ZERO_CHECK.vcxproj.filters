@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\J\Documents\GitHub\libdshowcapture\build\CMakeFiles\30ffe2f7154567c4ff11a636d0addacf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F39BE7A6-92F7-3012-9B0A-1783861A88DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

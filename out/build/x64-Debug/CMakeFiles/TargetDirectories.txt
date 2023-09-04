@@ -1,0 +1,3 @@
+C:/Users/J/Documents/GitHub/libdshowcapture/out/build/x64-Debug/CMakeFiles/libdshowcapture.dir
+C:/Users/J/Documents/GitHub/libdshowcapture/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/J/Documents/GitHub/libdshowcapture/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

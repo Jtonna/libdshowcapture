@@ -1,0 +1,3 @@
+C:/Users/J/Documents/GitHub/libdshowcapture/build/CMakeFiles/libdshowcapture.dir
+C:/Users/J/Documents/GitHub/libdshowcapture/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/J/Documents/GitHub/libdshowcapture/build/CMakeFiles/ZERO_CHECK.dir
